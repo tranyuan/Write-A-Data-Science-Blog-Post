@@ -11,9 +11,9 @@ https://www.kaggle.com/stackoverflow/so-survey-2017
 
 I am interested to how the salary is growing every year and what the salary difference is between male and female.
 
-1. The overall salary in 2017.
-2. The salary based on experience or gender.
-3. The salary based on experience and gender.
+1. What’s the overall salary looks like?
+2. What’s the salary difference based on gender or experience?
+3. What’s the salary difference between two genders based on experience?
 
 # Result
 
